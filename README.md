@@ -31,6 +31,22 @@ Player comparison and specialist identification using phase-specific strike rate
 ### 4. Situational Intelligence — Performance Under Context
 Contextual batting analysis covering batting first versus chasing, innings score distributions, dot-ball percentages and seasonal strike-rate trends.
 
+
+## Dashboard Preview
+
+### 1. IPL Overview
+![IPL Overview](docs/screenshots/IPL%20Overview.png)
+
+### 2. Player Intelligence
+![Player Intelligence](docs/screenshots/Player%20Intelligence.png)
+
+### 3. Decision Lab
+![Decision Lab](docs/screenshots/Decision%20Lab.png)
+
+### 4. Situational Intelligence
+![Situational Intelligence](docs/screenshots/Decision%20Intelligence%20Layout.png)
+
+
 ## Data Pipeline
 
 1. Read raw IPL match JSON files.
